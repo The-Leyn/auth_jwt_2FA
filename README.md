@@ -97,14 +97,6 @@ TWILIO_AUTH_TOKEN=your_twilio_auth_token
 TWILIO_PHONE=+1234567890
 ```
 
-```
-
-```
-
-```
-
-```
-
 ### 4. Importer la base de données
 
 1. Ouvrez phpMyAdmin
